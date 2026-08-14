@@ -686,38 +686,5 @@ If you find this project interesting, consider giving it a ⭐ on GitHub!
 `Report • Analyze • Prioritize • Improve`
 
 </div>
-```
-
-### 🔥 GitHub repo ko aur attractive banane ke liye
-
-Repo create karte waqt:
-
-**Name**
-
-```text
-AI-CivicAssist
-```
-
-**Description**
-
-```text
-🤖 AI-powered civic intelligence platform for multimodal issue analysis, severity detection, smart recommendations, voice reporting & location-based civic insights.
-```
-
-**Topics**
-
-```text
-ai
-generative-ai
-gemini
-streamlit
-python
-multimodal-ai
-computer-vision
-civic-tech
-smart-city
-prompt-engineering
-data-analytics
-```
 
 
