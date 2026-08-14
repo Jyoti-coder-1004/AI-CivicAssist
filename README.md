@@ -508,7 +508,7 @@ __pycache__/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Jyoti-coder-1004/AI-CivicAssist.git
 cd AI-CivicAssist
 ```
 
