@@ -1,0 +1,13 @@
+issue_id,date,category,severity,status,priority,description,latitude,longitude
+CIV-001,2026-08-01,Road Damage,High,Open,High,Large pothole near main road,28.6692,77.4538
+CIV-002,2026-08-02,Garbage,Medium,In Progress,Medium,Overflowing garbage bin near market,28.6710,77.4495
+CIV-003,2026-08-03,Streetlight,High,Open,High,Streetlight not working near park,28.6655,77.4562
+CIV-004,2026-08-04,Water Leakage,Critical,Open,Critical,Water pipe leakage on residential road,28.6741,77.4511
+CIV-005,2026-08-05,Public Facility,Low,Resolved,Low,Damaged public bench,28.6681,77.4478
+CIV-006,2026-08-06,Road Damage,Medium,In Progress,Medium,Cracked road surface,28.6628,77.4545
+CIV-007,2026-08-07,Garbage,High,Open,High,Garbage accumulation near school,28.6703,77.4590
+CIV-008,2026-08-08,Accessibility,High,Open,High,Blocked wheelchair access path,28.6669,77.4503
+CIV-009,2026-08-09,Streetlight,Medium,Resolved,Medium,Flickering streetlight,28.6722,77.4550
+CIV-010,2026-08-10,Water Leakage,High,In Progress,High,Water leakage near community center,28.6645,77.4489
+CIV-011,2026-08-11,Road Damage,Critical,Open,Critical,Dangerous road damage at intersection,28.6770,77.4524
+CIV-012,2026-08-12,Garbage,Medium,Resolved,Medium,Overflowing waste container,28.6698,77.4601

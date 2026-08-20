@@ -1,0 +1,3 @@
+complaint_id,created_at,category,severity,description,location,latitude,longitude,status
+CA-2026-0001,2026-08-13 01:11:05,Garbage,High,A large amount of garbage has accumulated near the public park and has not been collected for several days.,"near city park , ghaziabad",,,Resolved
+CA-2026-0002,2026-08-13 11:44:25,Public Facility,Medium,there are no fleaxibilty to car parking,pampri maharastra,,,Submitted
