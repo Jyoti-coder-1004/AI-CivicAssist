@@ -627,7 +627,7 @@ The platform can serve as a foundation for intelligent civic monitoring and futu
 
 ```text
 🔗 Live App:
-[YOUR_DEPLOYMENT_URL](https://ai-civicassist.streamlit.app/)
+https://ai-civicassist.streamlit.app/
 ```
 
 ---
