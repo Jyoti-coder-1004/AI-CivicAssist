@@ -228,79 +228,19 @@ metrics = calculate_metrics(filtered_df)
 
 # ============================================================
 # HERO SECTION
-# ============================================================
+# ============================================================ 
+st.title("🔵 AI CivicAssist")
 
-st.markdown(
-    """
-    <div class="hero-card">
-
-        <div class="hero-title">
-            🔵 AI CivicAssist
-        </div>
-
-        <div class="hero-subtitle">
-            Intelligent Civic Issue Detection,
-            Reporting & Community Management
-        </div>
-
-        <div class="hero-description">
-            AI-powered civic intelligence platform that helps
-            citizens identify, analyze and prioritize real-world
-            community problems.
-        </div>
-
-        <div class="hero-features">
-            <span>🤖 AI Analysis</span>
-            <span>📸 Vision AI</span>
-            <span>🎤 Voice AI</span>
-            <span>📊 Smart Analytics</span>
-        </div>
-
-    </div>
-    """,
-    unsafe_allow_html=True,
+st.subheader(
+    "Intelligent Civic Issue Detection, Reporting & Community Management"
 )
 
-
-# ============================================================
-# KPI SECTION
-# ============================================================
-
-st.markdown(
-    '<div class="section-title">📊 Civic Overview</div>',
-    unsafe_allow_html=True,
+st.write(
+    "AI-powered civic intelligence platform that helps citizens "
+    "identify, analyze and prioritize real-world community problems."
 )
 
-col1, col2, col3, col4 = st.columns(4)
-
-with col1:
-    st.metric(
-        "Total Issues",
-        metrics["total"],
-        "+12%",
-    )
-
-with col2:
-    st.metric(
-        "High Priority",
-        metrics["high_priority"],
-        "+5%",
-    )
-
-with col3:
-    st.metric(
-        "Open Issues",
-        metrics["open"],
-        "-3%",
-    )
-
-with col4:
-    st.metric(
-        "Resolution Rate",
-        f"{metrics['resolution_rate']:.1f}%",
-        "+8%",
-    )
-
+st.info("🤖 AI Analysis   |   📸 Vision AI   |   🎤 Voice AI   |   📊 Smart Analytics")
 
 # ============================================================
 # ANALYTICS
