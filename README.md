@@ -626,7 +626,7 @@ The platform can serve as a foundation for intelligent civic monitoring and futu
 > Live deployment link will be added after cloud deployment.
 
 ```text
-🔗 Live App:
+🔗
 https://ai-civicassist.streamlit.app/
 ```
 
